@@ -7,114 +7,133 @@
       "release_date": "17-11-2022",
       "name": "Hotfixes",
       "desc": "Bug fixes, minor balance changes, and updated many item sprites.",
+      "zip_name": "1449",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1449.zip"
     },
     "1.4.4.8.1": {
       "release_date": "10-11-2022",
       "name": "Hotfixes",
       "desc": "Bug fixes.",
+      "zip_name": "14481",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-14481.zip"
     },
     "1.4.4.8": {
       "release_date": "09-11-2022",
       "name": "Content and Balance changes",
       "desc": "Bug fixes.",
+      "zip_name": "1448",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1448.zip"
     },
     "1.4.4.7": {
       "release_date": "24-10-2022",
       "name": "Hotfixes",
       "desc": "Bug fixes.",
+      "zip_name": "1447",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1447.zip"
     },
     "1.4.4.6": {
       "release_date": "21-10-2022",
       "name": "Content and Balance changes",
       "desc": "Bug fixes.",
+      "zip_name": "1446",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1446.zip"
     },
     "1.4.4.5": {
       "release_date": "7-10-2022",
       "name": "Hotfixes",
       "desc": "Bug fixes.",
+      "zip_name": "1445",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1445.zip"
     },
     "1.4.4.4": {
       "release_date": "4-10-2022",
       "name": "Hotfixes",
       "desc": "Bug fixes.",
+      "zip_name": "1444",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1444.zip"
     },
     "1.4.4.3": {
       "release_date": "3-10-2022",
       "name": "Hotfixes",
       "desc": "Bug fixes.",
+      "zip_name": "1443",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1443.zip"
     },
     "1.4.4.2": {
       "release_date": "29-09-2022",
       "name": "Hotfixes",
       "desc": "Bug fixes.",
+      "zip_name": "1442",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1442.zip"
     },
     "1.4.4.1": {
       "release_date": "28-09-2022",
       "name": "Hotfixes",
       "desc": "Bug fixes.",
+      "zip_name": "1441",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1441.zip"
     },
     "1.4.4": {
       "release_date": "28-09-2022",
       "name": "Labor of Love",
       "desc": "Large amount of quality-of-life and balance changes.",
+      "zip_name": "144",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-144.zip"
     },
     "1.4.3.6": {
       "release_date": "01-03-2022",
       "name": "Hotfixes",
       "desc": "Bug fixes.",
+      "zip_name": "1436",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1436.zip"
     },
     "1.4.3.5": {
       "release_date": "28-02-2022",
       "name": "Hotfixes",
       "desc": "Bug fixes.",
+      "zip_name": "1435",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1435.zip"
     },
     "1.4.3.4": {
       "release_date": "24-02-2022",
       "name": "Hotfixes",
       "desc": "Bug fixes.",
+      "zip_name": "1434",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1434.zip"
     },
     "1.4.3.3": {
       "release_date": "24-02-2022",
       "name": "Hotfixes",
       "desc": "Optimizations for the Steam Deck, balance changes and bug fixes.",
+      "zip_name": "1433",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1433.zip"
     },
     "1.4.3.2": {
       "release_date": "22-11-2021",
       "name": "Hotfixes",
       "desc": "Minor balance changes and bug fixes.",
+      "zip_name": "1432",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1432.zip"
     },
     "1.4.3.1": {
       "release_date": "22-11-2021",
       "name": "Hotfixes",
       "desc": "Minor balance changes and bug fixes.",
+      "zip_name": "1431",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1431.zip"
     },
     "1.4.3": {
       "release_date": "18-11-2021",
       "name": "An Eye For An Eye: Don't Starve Together Crossover Update",
       "desc": "Deerclops and new secret world seed with crossover content from Don't Starve Together.",
+      "zip_name": "143",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-143.zip"
     },
     "1.4.2.3": {
       "release_date": "16-05-2021",
       "name": "10th Anniversary Patch",
       "desc": "Bug fixes and Celebrationmk10 secret world seed.",
+      "zip_name": "1423",
       "download_url": "https://terraria.org/api/download/pc-dedicated-server/terraria-server-1423.zip"
     }
   }
